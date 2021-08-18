@@ -1,0 +1,6 @@
+/Users/Aurimas/Documents/Dotnet/Loops/Loops/bin/Debug/Loops.exe
+/Users/Aurimas/Documents/Dotnet/Loops/Loops/bin/Debug/Loops.pdb
+/Users/Aurimas/Documents/Dotnet/Loops/Loops/obj/Debug/Loops.csproj.AssemblyReference.cache
+/Users/Aurimas/Documents/Dotnet/Loops/Loops/obj/Debug/Loops.csproj.CoreCompileInputs.cache
+/Users/Aurimas/Documents/Dotnet/Loops/Loops/obj/Debug/Loops.exe
+/Users/Aurimas/Documents/Dotnet/Loops/Loops/obj/Debug/Loops.pdb

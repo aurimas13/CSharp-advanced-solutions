@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecisionsAndLoops", "DecisionsAndLoops\DecisionsAndLoops.csproj", "{B8E0BA29-F7C1-472B-A987-9465F9390B6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8E0BA29-F7C1-472B-A987-9465F9390B6B}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{B8E0BA29-F7C1-472B-A987-9465F9390B6B}.Debug|anycpu.Build.0 = Debug|anycpu
+		{B8E0BA29-F7C1-472B-A987-9465F9390B6B}.Release|anycpu.ActiveCfg = Release|anycpu
+		{B8E0BA29-F7C1-472B-A987-9465F9390B6B}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FC3EFA9-7A80-4756-8F8E-D17E7D265121}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+/Users/Aurimas/Documents/Dotnet/OOP/OOP/obj/Debug/OOP.csproj.AssemblyReference.cache
+/Users/Aurimas/Documents/Dotnet/OOP/OOP/obj/Debug/OOP.csproj.CoreCompileInputs.cache
+/Users/Aurimas/Documents/Dotnet/OOP/OOP/bin/Debug/OOP.exe
+/Users/Aurimas/Documents/Dotnet/OOP/OOP/bin/Debug/OOP.pdb
+/Users/Aurimas/Documents/Dotnet/OOP/OOP/obj/Debug/OOP.exe
+/Users/Aurimas/Documents/Dotnet/OOP/OOP/obj/Debug/OOP.pdb

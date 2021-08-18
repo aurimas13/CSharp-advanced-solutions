@@ -1,0 +1,6 @@
+/Users/Aurimas/Documents/Dotnet/DecisionsAndLoops/DecisionsAndLoops/obj/Debug/DecisionsAndLoops.csproj.AssemblyReference.cache
+/Users/Aurimas/Documents/Dotnet/DecisionsAndLoops/DecisionsAndLoops/obj/Debug/DecisionsAndLoops.csproj.CoreCompileInputs.cache
+/Users/Aurimas/Documents/Dotnet/DecisionsAndLoops/DecisionsAndLoops/bin/Debug/DecisionsAndLoops.exe
+/Users/Aurimas/Documents/Dotnet/DecisionsAndLoops/DecisionsAndLoops/bin/Debug/DecisionsAndLoops.pdb
+/Users/Aurimas/Documents/Dotnet/DecisionsAndLoops/DecisionsAndLoops/obj/Debug/DecisionsAndLoops.exe
+/Users/Aurimas/Documents/Dotnet/DecisionsAndLoops/DecisionsAndLoops/obj/Debug/DecisionsAndLoops.pdb

@@ -1,0 +1,6 @@
+/Users/Aurimas/Documents/Dotnet/Properties/Properties/obj/Debug/Properties.csproj.AssemblyReference.cache
+/Users/Aurimas/Documents/Dotnet/Properties/Properties/obj/Debug/Properties.csproj.CoreCompileInputs.cache
+/Users/Aurimas/Documents/Dotnet/Properties/Properties/bin/Debug/Properties.exe
+/Users/Aurimas/Documents/Dotnet/Properties/Properties/bin/Debug/Properties.pdb
+/Users/Aurimas/Documents/Dotnet/Properties/Properties/obj/Debug/Properties.exe
+/Users/Aurimas/Documents/Dotnet/Properties/Properties/obj/Debug/Properties.pdb
