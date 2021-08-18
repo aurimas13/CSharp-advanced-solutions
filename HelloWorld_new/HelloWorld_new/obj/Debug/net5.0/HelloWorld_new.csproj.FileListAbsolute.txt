@@ -1,0 +1,15 @@
+/Users/Aurimas/Documents/Dotnet/HelloWorld_new/HelloWorld_new/obj/Debug/net5.0/HelloWorld_new.csproj.AssemblyReference.cache
+/Users/Aurimas/Documents/Dotnet/HelloWorld_new/HelloWorld_new/obj/Debug/net5.0/HelloWorld_new.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Aurimas/Documents/Dotnet/HelloWorld_new/HelloWorld_new/obj/Debug/net5.0/HelloWorld_new.AssemblyInfoInputs.cache
+/Users/Aurimas/Documents/Dotnet/HelloWorld_new/HelloWorld_new/obj/Debug/net5.0/HelloWorld_new.AssemblyInfo.cs
+/Users/Aurimas/Documents/Dotnet/HelloWorld_new/HelloWorld_new/obj/Debug/net5.0/HelloWorld_new.csproj.CoreCompileInputs.cache
+/Users/Aurimas/Documents/Dotnet/HelloWorld_new/HelloWorld_new/bin/Debug/net5.0/HelloWorld_new.deps.json
+/Users/Aurimas/Documents/Dotnet/HelloWorld_new/HelloWorld_new/bin/Debug/net5.0/HelloWorld_new.runtimeconfig.json
+/Users/Aurimas/Documents/Dotnet/HelloWorld_new/HelloWorld_new/bin/Debug/net5.0/HelloWorld_new.runtimeconfig.dev.json
+/Users/Aurimas/Documents/Dotnet/HelloWorld_new/HelloWorld_new/bin/Debug/net5.0/HelloWorld_new.dll
+/Users/Aurimas/Documents/Dotnet/HelloWorld_new/HelloWorld_new/bin/Debug/net5.0/ref/HelloWorld_new.dll
+/Users/Aurimas/Documents/Dotnet/HelloWorld_new/HelloWorld_new/bin/Debug/net5.0/HelloWorld_new.pdb
+/Users/Aurimas/Documents/Dotnet/HelloWorld_new/HelloWorld_new/obj/Debug/net5.0/HelloWorld_new.dll
+/Users/Aurimas/Documents/Dotnet/HelloWorld_new/HelloWorld_new/obj/Debug/net5.0/ref/HelloWorld_new.dll
+/Users/Aurimas/Documents/Dotnet/HelloWorld_new/HelloWorld_new/obj/Debug/net5.0/HelloWorld_new.pdb
+/Users/Aurimas/Documents/Dotnet/HelloWorld_new/HelloWorld_new/obj/Debug/net5.0/HelloWorld_new.genruntimeconfig.cache

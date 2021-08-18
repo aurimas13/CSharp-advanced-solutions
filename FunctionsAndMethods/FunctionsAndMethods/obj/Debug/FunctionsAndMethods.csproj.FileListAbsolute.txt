@@ -1,0 +1,6 @@
+/Users/Aurimas/Documents/Dotnet/FunctionsAndMethods/FunctionsAndMethods/obj/Debug/FunctionsAndMethods.csproj.AssemblyReference.cache
+/Users/Aurimas/Documents/Dotnet/FunctionsAndMethods/FunctionsAndMethods/obj/Debug/FunctionsAndMethods.csproj.CoreCompileInputs.cache
+/Users/Aurimas/Documents/Dotnet/FunctionsAndMethods/FunctionsAndMethods/bin/Debug/FunctionsAndMethods.exe
+/Users/Aurimas/Documents/Dotnet/FunctionsAndMethods/FunctionsAndMethods/bin/Debug/FunctionsAndMethods.pdb
+/Users/Aurimas/Documents/Dotnet/FunctionsAndMethods/FunctionsAndMethods/obj/Debug/FunctionsAndMethods.exe
+/Users/Aurimas/Documents/Dotnet/FunctionsAndMethods/FunctionsAndMethods/obj/Debug/FunctionsAndMethods.pdb

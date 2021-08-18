@@ -1,0 +1,6 @@
+/Users/Aurimas/Documents/Dotnet/HelloWorld_Other/HelloWorld_Other/bin/Debug/HelloWorld_Other.exe
+/Users/Aurimas/Documents/Dotnet/HelloWorld_Other/HelloWorld_Other/bin/Debug/HelloWorld_Other.pdb
+/Users/Aurimas/Documents/Dotnet/HelloWorld_Other/HelloWorld_Other/obj/Debug/HelloWorld_Other.csproj.AssemblyReference.cache
+/Users/Aurimas/Documents/Dotnet/HelloWorld_Other/HelloWorld_Other/obj/Debug/HelloWorld_Other.csproj.CoreCompileInputs.cache
+/Users/Aurimas/Documents/Dotnet/HelloWorld_Other/HelloWorld_Other/obj/Debug/HelloWorld_Other.exe
+/Users/Aurimas/Documents/Dotnet/HelloWorld_Other/HelloWorld_Other/obj/Debug/HelloWorld_Other.pdb
