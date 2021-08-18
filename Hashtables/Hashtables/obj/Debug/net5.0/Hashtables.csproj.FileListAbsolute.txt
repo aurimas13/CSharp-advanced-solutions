@@ -1,0 +1,15 @@
+/Users/Aurimas/Documents/Dotnet/Hashtables/Hashtables/obj/Debug/net5.0/Hashtables.csproj.AssemblyReference.cache
+/Users/Aurimas/Documents/Dotnet/Hashtables/Hashtables/obj/Debug/net5.0/Hashtables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Aurimas/Documents/Dotnet/Hashtables/Hashtables/obj/Debug/net5.0/Hashtables.AssemblyInfoInputs.cache
+/Users/Aurimas/Documents/Dotnet/Hashtables/Hashtables/obj/Debug/net5.0/Hashtables.AssemblyInfo.cs
+/Users/Aurimas/Documents/Dotnet/Hashtables/Hashtables/obj/Debug/net5.0/Hashtables.csproj.CoreCompileInputs.cache
+/Users/Aurimas/Documents/Dotnet/Hashtables/Hashtables/bin/Debug/net5.0/Hashtables.deps.json
+/Users/Aurimas/Documents/Dotnet/Hashtables/Hashtables/bin/Debug/net5.0/Hashtables.runtimeconfig.json
+/Users/Aurimas/Documents/Dotnet/Hashtables/Hashtables/bin/Debug/net5.0/Hashtables.runtimeconfig.dev.json
+/Users/Aurimas/Documents/Dotnet/Hashtables/Hashtables/bin/Debug/net5.0/Hashtables.dll
+/Users/Aurimas/Documents/Dotnet/Hashtables/Hashtables/bin/Debug/net5.0/ref/Hashtables.dll
+/Users/Aurimas/Documents/Dotnet/Hashtables/Hashtables/bin/Debug/net5.0/Hashtables.pdb
+/Users/Aurimas/Documents/Dotnet/Hashtables/Hashtables/obj/Debug/net5.0/Hashtables.dll
+/Users/Aurimas/Documents/Dotnet/Hashtables/Hashtables/obj/Debug/net5.0/ref/Hashtables.dll
+/Users/Aurimas/Documents/Dotnet/Hashtables/Hashtables/obj/Debug/net5.0/Hashtables.pdb
+/Users/Aurimas/Documents/Dotnet/Hashtables/Hashtables/obj/Debug/net5.0/Hashtables.genruntimeconfig.cache

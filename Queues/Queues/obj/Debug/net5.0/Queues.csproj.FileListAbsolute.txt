@@ -1,0 +1,15 @@
+/Users/Aurimas/Documents/Dotnet/Queues/Queues/bin/Debug/net5.0/Queues.deps.json
+/Users/Aurimas/Documents/Dotnet/Queues/Queues/bin/Debug/net5.0/Queues.runtimeconfig.json
+/Users/Aurimas/Documents/Dotnet/Queues/Queues/bin/Debug/net5.0/Queues.runtimeconfig.dev.json
+/Users/Aurimas/Documents/Dotnet/Queues/Queues/bin/Debug/net5.0/Queues.dll
+/Users/Aurimas/Documents/Dotnet/Queues/Queues/bin/Debug/net5.0/ref/Queues.dll
+/Users/Aurimas/Documents/Dotnet/Queues/Queues/bin/Debug/net5.0/Queues.pdb
+/Users/Aurimas/Documents/Dotnet/Queues/Queues/obj/Debug/net5.0/Queues.csproj.AssemblyReference.cache
+/Users/Aurimas/Documents/Dotnet/Queues/Queues/obj/Debug/net5.0/Queues.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Aurimas/Documents/Dotnet/Queues/Queues/obj/Debug/net5.0/Queues.AssemblyInfoInputs.cache
+/Users/Aurimas/Documents/Dotnet/Queues/Queues/obj/Debug/net5.0/Queues.AssemblyInfo.cs
+/Users/Aurimas/Documents/Dotnet/Queues/Queues/obj/Debug/net5.0/Queues.csproj.CoreCompileInputs.cache
+/Users/Aurimas/Documents/Dotnet/Queues/Queues/obj/Debug/net5.0/Queues.dll
+/Users/Aurimas/Documents/Dotnet/Queues/Queues/obj/Debug/net5.0/ref/Queues.dll
+/Users/Aurimas/Documents/Dotnet/Queues/Queues/obj/Debug/net5.0/Queues.pdb
+/Users/Aurimas/Documents/Dotnet/Queues/Queues/obj/Debug/net5.0/Queues.genruntimeconfig.cache
