@@ -10,13 +10,13 @@ namespace InheritanceC
     {
         static void Main(string[] args)
         {
-            Post post1 = new Post("Thanks for the birthday wishes", true, "Denis Panjuta");
+            Post post1 = new Post("Thanks for the birthday wishes", true, "Aurimas Nausedas");
             Console.WriteLine(post1.ToString());
-            
-            ImagePost imagePost1 = new ImagePost("Check out my new shoes", "Denis Panjuta",
+
+            ImagePost imagePost1 = new ImagePost("Check out my new shoes", "Aurimas Nausedas",
                 "https://images.com/shoes", true);
 
-            VideoPost videoPost1 = new VideoPost("FailVideo", "Denis Panjuta",
+            VideoPost videoPost1 = new VideoPost("FailVideo", "Aurimas Nausedas",
                 "https://video.com/failvideo", true, 10);
 
             Console.WriteLine(imagePost1.ToString());
