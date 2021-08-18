@@ -1,0 +1,7 @@
+c:\users\denis panjuta\source\repos\InheritanceC\InheritanceC\bin\Debug\InheritanceC.exe.config
+c:\users\denis panjuta\source\repos\InheritanceC\InheritanceC\bin\Debug\InheritanceC.exe
+c:\users\denis panjuta\source\repos\InheritanceC\InheritanceC\bin\Debug\InheritanceC.pdb
+c:\users\denis panjuta\source\repos\InheritanceC\InheritanceC\obj\Debug\InheritanceC.csprojResolveAssemblyReference.cache
+c:\users\denis panjuta\source\repos\InheritanceC\InheritanceC\obj\Debug\InheritanceC.csproj.CoreCompileInputs.cache
+c:\users\denis panjuta\source\repos\InheritanceC\InheritanceC\obj\Debug\InheritanceC.exe
+c:\users\denis panjuta\source\repos\InheritanceC\InheritanceC\obj\Debug\InheritanceC.pdb
