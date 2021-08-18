@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiArrays", "MultiArrays\MultiArrays.csproj", "{D796CC4F-5407-4D4D-8369-5529523ACCD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D796CC4F-5407-4D4D-8369-5529523ACCD0}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{D796CC4F-5407-4D4D-8369-5529523ACCD0}.Debug|anycpu.Build.0 = Debug|anycpu
+		{D796CC4F-5407-4D4D-8369-5529523ACCD0}.Release|anycpu.ActiveCfg = Release|anycpu
+		{D796CC4F-5407-4D4D-8369-5529523ACCD0}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCADB4D3-7A5C-40D8-8700-76F17173A06B}
+	EndGlobalSection
+EndGlobal

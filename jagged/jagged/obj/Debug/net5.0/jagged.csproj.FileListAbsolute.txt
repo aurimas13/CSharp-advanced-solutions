@@ -1,0 +1,15 @@
+/Users/Aurimas/Documents/Dotnet/jagged/jagged/bin/Debug/net5.0/jagged.deps.json
+/Users/Aurimas/Documents/Dotnet/jagged/jagged/bin/Debug/net5.0/jagged.runtimeconfig.json
+/Users/Aurimas/Documents/Dotnet/jagged/jagged/bin/Debug/net5.0/jagged.runtimeconfig.dev.json
+/Users/Aurimas/Documents/Dotnet/jagged/jagged/bin/Debug/net5.0/jagged.dll
+/Users/Aurimas/Documents/Dotnet/jagged/jagged/bin/Debug/net5.0/ref/jagged.dll
+/Users/Aurimas/Documents/Dotnet/jagged/jagged/bin/Debug/net5.0/jagged.pdb
+/Users/Aurimas/Documents/Dotnet/jagged/jagged/obj/Debug/net5.0/jagged.csproj.AssemblyReference.cache
+/Users/Aurimas/Documents/Dotnet/jagged/jagged/obj/Debug/net5.0/jagged.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Aurimas/Documents/Dotnet/jagged/jagged/obj/Debug/net5.0/jagged.AssemblyInfoInputs.cache
+/Users/Aurimas/Documents/Dotnet/jagged/jagged/obj/Debug/net5.0/jagged.AssemblyInfo.cs
+/Users/Aurimas/Documents/Dotnet/jagged/jagged/obj/Debug/net5.0/jagged.csproj.CoreCompileInputs.cache
+/Users/Aurimas/Documents/Dotnet/jagged/jagged/obj/Debug/net5.0/jagged.dll
+/Users/Aurimas/Documents/Dotnet/jagged/jagged/obj/Debug/net5.0/ref/jagged.dll
+/Users/Aurimas/Documents/Dotnet/jagged/jagged/obj/Debug/net5.0/jagged.pdb
+/Users/Aurimas/Documents/Dotnet/jagged/jagged/obj/Debug/net5.0/jagged.genruntimeconfig.cache

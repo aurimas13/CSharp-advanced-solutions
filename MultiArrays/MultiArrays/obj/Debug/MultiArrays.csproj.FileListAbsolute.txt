@@ -1,0 +1,6 @@
+/Users/Aurimas/Documents/Dotnet/MultiArrays/MultiArrays/bin/Debug/MultiArrays.exe
+/Users/Aurimas/Documents/Dotnet/MultiArrays/MultiArrays/bin/Debug/MultiArrays.pdb
+/Users/Aurimas/Documents/Dotnet/MultiArrays/MultiArrays/obj/Debug/MultiArrays.csproj.AssemblyReference.cache
+/Users/Aurimas/Documents/Dotnet/MultiArrays/MultiArrays/obj/Debug/MultiArrays.csproj.CoreCompileInputs.cache
+/Users/Aurimas/Documents/Dotnet/MultiArrays/MultiArrays/obj/Debug/MultiArrays.exe
+/Users/Aurimas/Documents/Dotnet/MultiArrays/MultiArrays/obj/Debug/MultiArrays.pdb

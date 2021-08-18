@@ -1,0 +1,15 @@
+/Users/Aurimas/Documents/Dotnet/TicTacToeExercise/TicTacToeExercise/obj/Debug/net5.0/TicTacToeExercise.csproj.AssemblyReference.cache
+/Users/Aurimas/Documents/Dotnet/TicTacToeExercise/TicTacToeExercise/obj/Debug/net5.0/TicTacToeExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Aurimas/Documents/Dotnet/TicTacToeExercise/TicTacToeExercise/obj/Debug/net5.0/TicTacToeExercise.AssemblyInfoInputs.cache
+/Users/Aurimas/Documents/Dotnet/TicTacToeExercise/TicTacToeExercise/obj/Debug/net5.0/TicTacToeExercise.AssemblyInfo.cs
+/Users/Aurimas/Documents/Dotnet/TicTacToeExercise/TicTacToeExercise/obj/Debug/net5.0/TicTacToeExercise.csproj.CoreCompileInputs.cache
+/Users/Aurimas/Documents/Dotnet/TicTacToeExercise/TicTacToeExercise/bin/Debug/net5.0/TicTacToeExercise.deps.json
+/Users/Aurimas/Documents/Dotnet/TicTacToeExercise/TicTacToeExercise/bin/Debug/net5.0/TicTacToeExercise.runtimeconfig.json
+/Users/Aurimas/Documents/Dotnet/TicTacToeExercise/TicTacToeExercise/bin/Debug/net5.0/TicTacToeExercise.runtimeconfig.dev.json
+/Users/Aurimas/Documents/Dotnet/TicTacToeExercise/TicTacToeExercise/bin/Debug/net5.0/TicTacToeExercise.dll
+/Users/Aurimas/Documents/Dotnet/TicTacToeExercise/TicTacToeExercise/bin/Debug/net5.0/ref/TicTacToeExercise.dll
+/Users/Aurimas/Documents/Dotnet/TicTacToeExercise/TicTacToeExercise/bin/Debug/net5.0/TicTacToeExercise.pdb
+/Users/Aurimas/Documents/Dotnet/TicTacToeExercise/TicTacToeExercise/obj/Debug/net5.0/TicTacToeExercise.dll
+/Users/Aurimas/Documents/Dotnet/TicTacToeExercise/TicTacToeExercise/obj/Debug/net5.0/ref/TicTacToeExercise.dll
+/Users/Aurimas/Documents/Dotnet/TicTacToeExercise/TicTacToeExercise/obj/Debug/net5.0/TicTacToeExercise.pdb
+/Users/Aurimas/Documents/Dotnet/TicTacToeExercise/TicTacToeExercise/obj/Debug/net5.0/TicTacToeExercise.genruntimeconfig.cache
