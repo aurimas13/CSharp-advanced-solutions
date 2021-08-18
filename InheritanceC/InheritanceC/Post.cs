@@ -24,7 +24,7 @@ namespace InheritanceC
             ID = 0;
             Title = "My First Post";
             IsPublic = true;
-            SendByUsername = "Denis Panjuta";
+            SendByUsername = "Aurimas Nausedas";
         }
 
         // Instance constructor that has three parameters

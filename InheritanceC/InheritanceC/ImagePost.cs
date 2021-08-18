@@ -8,7 +8,7 @@ namespace InheritanceC
 {
     // ImagePost derives from Post and adds a property (ImageURL) and two constructors
 
-    class ImagePost :Post
+    internal class ImagePost : Post
     {
         public string ImageURL { get; set; }
 
